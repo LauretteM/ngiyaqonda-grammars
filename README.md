@@ -61,7 +61,7 @@ For documentation on using `pgf` to integrate PGF grammars into Python scripts, 
 
 
 ### License
-Copyright 2005 Council for Scientific and Industrial Research (South Africa)
+Copyright 2025 Council for Scientific and Industrial Research (South Africa)
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
