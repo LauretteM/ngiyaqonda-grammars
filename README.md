@@ -7,6 +7,9 @@ Lionel Posthumus
 Roné Wierenga  
 Ilana Wilken  
 
+### Funding
+The Ngiyaqonda project was funded by the South African [Department of Sport, Arts and Culture](https://www.dsac.gov.za/Department%20of%20Sport%2C%20Arts%20and%20Culture%20%28DSAC%29%20National%20Language%20Service), and incorporates resources developed with funding from the [South African Centre for Digital Language Resources](https://sadilar.org/) (SADiLaR).
+
 ### Overview
 The Grammatica Framework (GF) grammar presented here were developed as part of the _Ngiyaqonda_
 project, funded by the South African Department of Sport, Arts and Culture. The grammars are multilingual
